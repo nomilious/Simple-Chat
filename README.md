@@ -1,1 +1,1 @@
-second commit
+Simple client-server written in Golang
